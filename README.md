@@ -1,15 +1,10 @@
-# Titulok je toto
+# Info
 
-Tu je nejaky test 
+This is repo with usefull cheetsheets and manuals how to. Each manual will have it's own repo and later maybe stored in one Project page with several repos.
 
-## Mensi titulok 
+# Navigation 
 
-A k tomu dalsi text 
-
-'''bash
-nejaky text
-v tomto riadku
-'''
+##**1. git & stuff**
 
 Some basic Git commands are:
 ```
@@ -17,7 +12,7 @@ git status
 git add
 git commit
 ```
-# Lists
+# Lists can be placed as followed: 
 
 - George Washington
 - John Adams
