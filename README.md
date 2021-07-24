@@ -4,7 +4,7 @@ This is repo with usefull cheetsheets and manuals how to. Each manual will have 
 
 # Navigation 
 
-##**1. git & stuff**
+## **1. git & stuff**
 
 Some basic Git commands are:
 ```
