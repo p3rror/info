@@ -1,4 +1,4 @@
-#JAVASCRIPT 
+# JAVASCRIPT 
 
 ## Table of contents
 * [General info](#general-info)
