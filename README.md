@@ -12,7 +12,7 @@ git status
 git add
 git commit
 ```
-# Lists can be placed as followed: 
+Lists can be placed as followed: 
 
 - George Washington
 - John Adams
