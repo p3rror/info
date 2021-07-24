@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Starter pack](#starter-pack)
 
 ## General info
 This is main source of git cheetsheet^manual. 
@@ -10,7 +10,7 @@ This is main source of git cheetsheet^manual.
 git basic commands:
 configure new repository, connect to branch, switch branch, push, pull and more...
 	
-### Git starter pack commands
+### Starter pack
 Here come some notes how to use git and stuff like that 
 
 ```
